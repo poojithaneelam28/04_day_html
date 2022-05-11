@@ -1,4 +1,3 @@
 # 04_day_html<br>
-creating an image link<br>
-image mapping<br>
-marquee in html<br>
+image in html<br>
+image and text scrolling in html
